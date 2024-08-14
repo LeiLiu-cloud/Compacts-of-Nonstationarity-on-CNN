@@ -1,4 +1,4 @@
-# Compacts-of-Nonstationarity-on-CNN
+# Impacts-of-Nonstationarity-on-CNN
 * calculate training data though SGS method
 * build CNN model to predict the variogram parameters
 * evalaute impacts of 3 typical types of spatial nonstationarity on CNN prediction performance: 
